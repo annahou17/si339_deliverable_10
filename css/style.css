@@ -60,9 +60,9 @@ nav a{
   -webkit-transition: top 1s ease-out;
   transition: top 1s ease-out;
   z-index: 1;
+
   position: absolute;
-  left: 0px;
-  top: -500px;
+  top: -40px;
 }
 
 
